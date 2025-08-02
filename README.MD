@@ -1,0 +1,1 @@
+This repository was created with the objective to store useful things that I'm leaning by reading the book "Hands On Machine Learning with Scikit Learn Keras and TensorFlow 2nd Edition" from Aurelien Geron.
