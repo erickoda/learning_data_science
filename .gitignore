@@ -1,0 +1,3 @@
+/.venv
+/src/datasets
+/src/__pycache__/
